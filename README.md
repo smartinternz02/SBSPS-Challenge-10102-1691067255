@@ -15,7 +15,7 @@ by identifying patterns and trends in campus placement data using machine learni
 Tech stack I used :- Python, Flask ,HTML , CSS <br/>
 
 
-working demo link:- https://drive.google.com/file/d/1Kvc3oQQE1YNPPATWCaJRiGdDkUKpZdjF/view?usp=sharing <br/>
+recorded working demo link:- https://drive.google.com/file/d/1Kvc3oQQE1YNPPATWCaJRiGdDkUKpZdjF/view?usp=sharing <br/>
 
 
 
